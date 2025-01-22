@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    padding-top: 70px;
+}
+
+.notion-logo-img {
+    height: 40px;
+}
+
+.notion-heading {
+    font-size: 30px;
+}
+
+.notion-btn {
+    height: 30px;
+    text-align: center;
+}
+
+.top-imgs {
+    height: 20px;
+}
+
+.top-heading {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.top-para {
+    font-size: 25px;
+}
+
+.request-btn {
+    background-color: #daf1f2;
+    height: 40px;
+    border-radius: 5px;
+    border-width: 0px;
+    color: blue;
+}
+
+
+.card1 {
+    width: 30%;
+    padding: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+.card-video {
+    width: 100%;
+    height: auto;
+}
+
+.building-heading{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.footer-h1{
+    font-size: 20px;
+}
+.footer-a{
+    color: black;
+}
+
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.footer-last{
+    display: flex;
+    flex-direction: column;
+
+}
+.last-item{
+    align-self: flex-end;
+}
+
+.bottom-card1{
+    background-color: #ededeb;
+    border-radius: 10px;
+
+}
+.best-work-card{
+    width: 25%;
+    background-color: transparent;
+    padding: 5px;
+    text-align: start;
+    
+}
+.best-work-img{
+    width: 50%;
+    height: auto;
+}
+.bes-work-h1{
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+    
+}
+.best-work-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.best-work-para{
+    font-size: 16px;
+}
+
+.template-icon{
+    color: orangered;
+    font-size: 40px;
+}
+
+.template-h1{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.template-para{
+    font-size: 20px;
+    font-size: 600;
+}
+.bottom-card2{
+    background-color: #ededeb;
+    border-radius: 10px;
+    width: 45%;
+}
+
+.template-icon1{
+    color: blue;
+    font-size: 40px;
+}
+.templates-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.template-icon2{
+    color: orangered;
+    font-size: 40px;
+}
+.template-icon4{
+    color: purple;
+    font-size: 40px;
+}
+.brain-boost-para{
+    font-size: 19px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+.brain-boost-para1{
+    font-size: 17px;
+    font-weight: 400;
+}
+.brain-boost-container{
+    width: 50%;
+    padding: 10px;
+}
+.brain-boost-heading{
+    font-size: 20px;
+    font-weight: 600;
+}
+.brain-boost-video{
+    height: 100px;
+    width: 50%;
+}
+
+.repace-heading{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.replace-para{
+    font-size: 15px;
+}
+.videos-view{
+    border-radius: 20px;
+}
+.main-image {
+    border-radius: 10px;
+}
+
+.changing-btn{
+    font-family: "Roboto";
+    border-width: 1px;
+    background-color: white;
+    font-weight: 500;
+    font-size: 19px;
+    border-radius: 5px;
+    border-color: lightblue;
+    padding: 5px;
+}
+.dorpdown-para{
+    text-decoration: underline;
+}
